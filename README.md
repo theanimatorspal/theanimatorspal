@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theanimatorspal
-- 👀 I’m interested in Computer Graphics, 3D animation, Character Art
+- 👀 I’m interested in Computer Graphics, 3D animation, Character Art, Music (Flute, Harmonium, Ukulele), Linguistics (esp.Sanskrit), Poetry (Metered poems)
 - 🌱 I’m currently learning Vulkan
 - 💞️ I’m looking to collaborate on Some graphics project
 - 📫 How to reach me is by my email.
