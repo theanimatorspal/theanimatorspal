@@ -1,6 +1,6 @@
 <h1 align="center">Darshan Koirala</h1>
 <p align="center">
-  <strong>Curious Technologist | 3D Graphics Enthusiast | Quant Finance Explorer</strong><br>
+  <strong>Quant Finance Explorer | High Frequency Trading | Computer Graphics Enthusiast</strong><br>
   <em>Bachelor's in Computer Engineering @ Tribhuwan University, Pulchowk Campus</em><br>
   <strong>Email:</strong> darshankoirala51@gmail.com | <strong>Location:</strong> Kathmandu, Nepal  
 </p>
