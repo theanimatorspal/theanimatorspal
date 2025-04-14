@@ -49,14 +49,7 @@
 
 ## 🔥 Notable Projects
 
-### 🎮 JkrGUI – Vulkan-based Cross-Platform Graphics Engine
-> My flagship project – a fully featured engine supporting both 2D/3D rendering, scripting, and cross-platform support.
-- Compute Shaders for UI Rendering
-- Lua Scripting, Cross-Platform (Windows, Android, Mac)
-- **[GitHub](https://github.com/theanimatorspal/jkrgui)**  
-- **[Research Paper](https://www.researchgate.net/publication/380632983_Application_of_Compute_Shaders_and_Viability_of_Hybrid_Mode_for_UI_Rendering)**
 
----
 
 ### 🧠 High Frequency Trading Simulator (C++, Lua)
 - Simulates high-frequency order book behavior.
@@ -78,17 +71,26 @@
 
 ---
 
+### 🧪 JLox Interpreter (C++)
+- C++ implementation of the Lox language from *Crafting Interpreters*.
+- Built Lexer, Parser, AST Generator, and Interpreter by hand.
+- **[GitHub](https://github.com/theanimatorspal/JLoxInCpp)**
+
+---
+
+### 🎮 JkrGUI – Vulkan-based Cross-Platform Graphics Engine
+> My flagship project – a fully featured engine supporting both 2D/3D rendering, scripting, and cross-platform support.
+- Compute Shaders for UI Rendering
+- Lua Scripting, Cross-Platform (Windows, Android, Mac)
+- **[GitHub](https://github.com/theanimatorspal/jkrgui)**  
+- **[Research Paper](https://www.researchgate.net/publication/380632983_Application_of_Compute_Shaders_and_Viability_of_Hybrid_Mode_for_UI_Rendering)**
+
+---
+
 ### 🎥 Ksai Anim – 3D Animation Software (Vulkan/C)
 - Lightweight in-house animation tool.
 - Developed from scratch including custom UI system.
 - **[GitHub](https://github.com/theanimatorspal/ksai_anim)** | [📺 Watch on YouTube](https://www.youtube.com/watch?v=CUaXP6BmwVE)
-
----
-
-### 🧪 JLox Interpreter (C++)
-- First C++ implementation of the Lox language from *Crafting Interpreters*.
-- Built Lexer, Parser, AST Generator, and Interpreter by hand.
-- **[GitHub](https://github.com/theanimatorspal/JLoxInCpp)**
 
 ---
 
