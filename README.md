@@ -9,7 +9,7 @@
 
 ## 🧠 Summary
 
-I am a curious individual with strong interests in low latency **Quantitative Finance**, **High Frequency Trading**, **Financial Analysis**, and **Computer Graphics**, supported by excellent communication and presentation skills. I strive to leave no stone unturned for any task I take on.  
+I am a curious individual with strong interests in **Quantitative Finance**, **High Frequency Trading**, **Financial Analysis**, **Low Latency Programming** and **Computer Graphics**, supported by excellent communication and presentation skills. I strive to leave no stone unturned for any task I take on.  
 Currently, I am pursuing a Bachelor's Degree in **Computer Engineering** at Tribhuwan University, Pulchowk Campus (4th Year).
 
 ---
@@ -20,27 +20,11 @@ Currently, I am pursuing a Bachelor's Degree in **Computer Engineering** at Trib
 C/C++, Lua, Java, Python, R
 
 ### Technologies  
-- **Python**: Tensorflow, Pandas  
 - **R**: tidyverse, ggplot  
-- **C++**: Vulkan, Modern C++  
+- **C++**: Vulkan, Modern C++
+- **Python**: Tensorflow, Pandas  
 - **Java**: Android Ecosystem, JNI  
 - **Creative Software**: Maya, Blender, Audacity
-
----
-
-## 🎓 Education
-
-**Bachelor's in Computer Engineering**  
-*Tribhuwan University, Pulchowk Campus (2021-2025)*  
-- IOE Rank: **46**  
-- Semester Score: 75-84%  
-- Electives:
-  - Cyber Security Fundamentals  
-  - Advanced Cyber Security  
-  - Software Defined Next Generation Networks
-
-**SLC/+2** – Sushma Godawari College, Itahari (2020)  
-**SEE** – Blooming Lotus English Secondary School, Itahari (2018)
 
 ---
 
