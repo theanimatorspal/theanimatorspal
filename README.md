@@ -14,16 +14,6 @@
 
 ## 🧠 Summary
 
-I am a passionate and curious technologist with strong interests in:
-- **Low-latency Quantitative Finance**
-- **High-Frequency Trading (HFT)**
-- **Computer Graphics and Game Engines**
-- **Financial Analysis & R Programming**
-
-I don’t leave stones unturned when I’m working on something I care about. I'm currently in my **4th year** at **IOE Pulchowk Campus**, ranked **46th nationwide**, pursuing a **Bachelor’s in Computer Engineering**.
-
----
-
 ## 🛠️ Skills
 
 ### 💬 Languages
