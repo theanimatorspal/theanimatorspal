@@ -145,4 +145,4 @@
 
 ## 🙌 Let’s Connect!
 
-If you’re into graphics engines, Sanskrit AI, low latency finance, or open-source tooling — hit me up! I’m always down to collaborate, learn, and build cool stuff 🤝
+If you’re into low latency computing, quantitative finance, graphics engines or open-source tooling — hit me up! I’m always down to collaborate, learn, and build cool stuff 🤝
