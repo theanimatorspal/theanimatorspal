@@ -12,8 +12,6 @@
 
 ---
 
-## 🧠 Summary
-
 ## 🛠️ Skills
 
 ### 💬 Languages
