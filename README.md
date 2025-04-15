@@ -25,27 +25,6 @@
 - **Creative Software:** Maya, Blender, Audacity
 - **LaTeX:** Advanced typesetting
 
----
-
-## 🎓 Education
-
-**Bachelor's in Computer Engineering**  
-*Tribhuwan University, Pulchowk Campus*  
-📅 *2021 – 2025*  
-- IOE Rank: **46**
-- Semester Grades: 75–84%
-- **Electives:**  
-  - Cyber Security Fundamentals  
-  - Advanced Cyber Security  
-  - Software Defined Next Generation Networks
-
-**+2 (SLC)**  
-*Sushma Godawari College, Itahari* – 2020
-
-**SEE**  
-*Blooming Lotus English Secondary School, Itahari* – 2018
-
----
 
 ## 🔥 Notable Projects
 
