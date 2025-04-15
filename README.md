@@ -28,7 +28,11 @@
 
 ## 🔥 Notable Projects
 
+### 🧠 Quant Based Stock Signal Miner (R, Python)
+- Implemented a Signal Miner.
+- *In development... Stay tuned!*
 
+---
 
 ### 🧠 High Frequency Trading Simulator (C++, Lua)
 - Simulates high-frequency order book behavior.
