@@ -15,7 +15,7 @@
 ## 🛠️ Skills
 
 ### 💬 Languages
-- **C/C++**, **Lua**, **Java**, **Python**, **R**
+- **C/C++**, **Lua**, **Java**, **Python**, **R**, **Julia**
 
 ### 🧰 Technologies & Tools
 - **Python:** TensorFlow, Pandas
