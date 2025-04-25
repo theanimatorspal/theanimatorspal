@@ -20,7 +20,7 @@
 ## 🛠️ Technical Skills
 
 ### 💻 Languages
-- **C/C++**, **Lua**, **Java**, **Python**, **R**, **JavaScript**
+- **C/C++**, **Lua**, **Java**, **Python**, **R**, **JavaScript**, **SQL**
 - Have got some hands on: **Rust**, **Julia**, **Dart**
 
 ### ⚙️ Frameworks & Tools
