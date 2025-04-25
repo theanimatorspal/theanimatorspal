@@ -21,7 +21,7 @@
 
 ### 💻 Languages
 - **C/C++**, **Lua**, **Java**, **Python**, **R**, **JavaScript**
-- Hands-on: **Rust**, **Julia**, **Dart**
+- Have got some hands on: **Rust**, **Julia**, **Dart**
 
 ### ⚙️ Frameworks & Tools
 - **ML/Stats:** TensorFlow, LSTM, Pandas, Tidyverse, PerformanceAnalytics  
