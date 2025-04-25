@@ -75,6 +75,10 @@
 - **[Research Paper](https://www.researchgate.net/publication/380632983_Application_of_Compute_Shaders_and_Viability_of_Hybrid_Mode_for_UI_Rendering)**
 
 ---
+### 🎮 Triyamik
+- This is a presentation scripting engine — made with Lua and running on your homemade jkrgui.
+- Controllable from Android (through JkrGUI)
+- **[GitHub](https://github.com/theanimatorspal/Triyamik)**  
 
 ### 🎥 Ksai Anim – 3D Animation Software (Vulkan/C)
 - Lightweight in-house animation tool.
