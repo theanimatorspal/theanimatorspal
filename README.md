@@ -89,6 +89,7 @@
 - Keyframe-based animation system  
 - Network support via ASIO  
 🔗 [GitHub](https://github.com/theanimatorspal/PresentTest-for-JkrGUI)
+📄 [Research Paper](https://www.researchgate.net/publication/391148981_Triyamik_Project)
 
 ---
 
