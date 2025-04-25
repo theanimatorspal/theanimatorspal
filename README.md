@@ -1,141 +1,155 @@
 <h1 align="center">Darshan Koirala</h1>
 <p align="center">
-  <strong>Quant Finance | High Frequency Trading | Computer Graphics Enthusiast</strong><br>
-  <em>Bachelor's in Computer Engineering @ Tribhuwan University, Pulchowk Campus</em><br>
-  <strong>Email:</strong> darshankoirala51@gmail.com | <strong>Location:</strong> Kathmandu, Nepal  
+  <strong>Quantitative Finance | High Frequency Trading | Computer Graphics</strong><br>
+  <em>B.E. in Computer Engineering @ Tribhuwan University, Pulchowk Campus</em><br>
+  <strong>Email:</strong> <a href="mailto:darshankoirala51@gmail.com">darshankoirala51@gmail.com</a> |
+  <strong>Location:</strong> Kathmandu, Nepal  
 </p>
 
 <p align="center">
-  <a href="https://github.com/theanimatorspal"><img src="https://img.shields.io/badge/Github-theanimatorspal-black?style=flat&logo=github" /></a>
-  <a href="https://youtube.com/koiralasanskrit"><img src="https://img.shields.io/badge/Youtube-KoiralaSanskrit-red?style=flat&logo=youtube" /></a>
+  <a href="https://github.com/theanimatorspal">
+    <img src="https://img.shields.io/badge/GitHub-theanimatorspal-black?style=flat&logo=github" />
+  </a>
+  <a href="https://youtube.com/koiralasanskrit">
+    <img src="https://img.shields.io/badge/YouTube-KoiralaSanskrit-red?style=flat&logo=youtube" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-### 💬 Languages
-- **C/C++**, **Lua**, **Java**, **Python**, **R**, **JavaScript** (Experienced)
-- **Rust**, **Julia**, **Dart** (Has hands on)
+### 💻 Languages
+- **C/C++**, **Lua**, **Java**, **Python**, **R**, **JavaScript**
+- Hands-on: **Rust**, **Julia**, **Dart**
 
-### 🧰 Technologies & Tools
-- **Python:** TensorFlow, Pandas
-- **R Programming:** tidyverse Ecosystem, PerformanceAnalytics
-- **C++:** Vulkan, OpenGl, Modern C++
-- **Java:** Android Ecosystem, JNI (Java Native Interface)
-- **Creative Software:** Maya, Blender, Audacity
-- **Technical Software:** Network Packet Tracer, Rstudio
-- **LaTeX:** Advanced typesetting
-
-
-## 🔥 Notable Projects
-
-### 🧠 Quant Based Stock Signal Miner (R, Python)
-- Implemented a Signal Miner that scraps NEPSE and yahoo data from internet and trains ML models on the basis of graph features.
-- Can give suggestions based on different financial indicators.
-- **[GitHub](https://github.com/theanimatorspal/QB-Stock-Market-Signal-Miner)**
-
+### ⚙️ Frameworks & Tools
+- **ML/Stats:** TensorFlow, LSTM, Pandas, Tidyverse, PerformanceAnalytics  
+- **Graphics:** Vulkan, OpenGL, Compute Shaders, Blender, Maya  
+- **Mobile & Native:** Android SDK, JNI  
+- **Dev Tools:** RStudio, Packet Tracer, Git, LaTeX (Advanced)
 
 ---
 
-### 📈 retainAI: Stock Price Predictor (Python, LSTM)
-- Built a neural network using LSTM for stock price predictions.
-- Focused on time-series modeling and financial trend analysis.
-- **[GitHub](https://github.com/AnamolZ/retainAI)**
+## 🚀 Projects & Research
+
+### 🧠 QB Signal Miner (R, Python)
+> **Quant-based signal generator for NEPSE & Yahoo Finance**
+- Scrapes & models price graphs and financial indicators using ML
+- Trained using XGBoost, LightGBM, Random Forest  
+🔗 [GitHub Repo](https://github.com/theanimatorspal/QB-Stock-Market-Signal-Miner)
 
 ---
 
-### 🧠 High Frequency Trading Simulator (C++, Lua)
-- Simulates high-frequency order book behavior.
-- Models basic market-making strategies.
-- **[GitHub](https://github.com/theanimatorspal/ksai_HFT)**
-
+### 📈 retainAI (Python, LSTM)
+> **Stock Price Prediction using Time Series Modeling**
+- Trained LSTM model on NEPSE and US stock tickers  
+🔗 [GitHub Repo](https://github.com/AnamolZ/retainAI)
 
 ---
 
-### 🧊 SANN – Simulated Annealing + Neural Network Visualizer (Vulkan/C++)
-- Trains a Feedforward NN using Simulated Annealing instead of Backpropagation.
-- Visual Tool built using custom GUI framework.
-- **[GitHub](https://github.com/theanimatorspal/SANN)** | **[Report](https://www.researchgate.net/publication/380632886_Application_of_Simulated_Annealing_for_Training_Feed_Forward_Neural_Networks)**
+### ⚡ HFT Simulator (C++, Lua)
+> **High Frequency Trading Simulator with Order Book Model**
+- Models market-making logic, latency, and spread behavior  
+🔗 [GitHub Repo](https://github.com/theanimatorspal/ksai_HFT)
+
+---
+
+### 🔬 SANN: Neural Network via Simulated Annealing (C++, Vulkan)
+> **Custom GUI + Simulated Annealing for training Neural Nets**  
+- Avoids backpropagation, uses annealing for weights  
+🔗 [GitHub](https://github.com/theanimatorspal/SANN) | 
+📄 [Research Paper](https://www.researchgate.net/publication/380632886_Application_of_Simulated_Annealing_for_Training_Feed_Forward_Neural_Networks)
 
 ---
 
 ### 🧪 JLox Interpreter (C++)
-- C++ implementation of the Lox language from *Crafting Interpreters*.
-- Built Lexer, Parser, AST Generator, and Interpreter by hand.
-- **[GitHub](https://github.com/theanimatorspal/JLoxInCpp)**
+> **Full Interpreter based on "Crafting Interpreters"**
+- Lexer → Parser → AST → Bytecode Interpreter  
+🔗 [GitHub Repo](https://github.com/theanimatorspal/JLoxInCpp)
 
 ---
 
-### 🎮 JkrGUI – Vulkan-based Cross-Platform Graphics Engine
-> My flagship project – a fully featured engine supporting both 2D/3D rendering, scripting, and cross-platform support.
-- Compute Shaders for UI Rendering
-- Lua Scripting, Cross-Platform (Windows, Android, Mac)
-- **[GitHub](https://github.com/theanimatorspal/jkrgui)**  
-- **[Research Paper](https://www.researchgate.net/publication/380632983_Application_of_Compute_Shaders_and_Viability_of_Hybrid_Mode_for_UI_Rendering)**
+### 🕹️ JkrGUI Graphics Engine (Vulkan + Lua)
+> **2D/3D Engine with Lua Scripting & Compute Shader UI**  
+- Vulkan + Lua + Android Cross-Platform  
+🔗 [GitHub](https://github.com/theanimatorspal/jkrgui) | 
+📄 [Paper](https://www.researchgate.net/publication/380632983_Application_of_Compute_Shaders_and_Viability_of_Hybrid_Mode_for_UI_Rendering)
 
 ---
-### 🎮 Triyamik
-- This is a presentation scripting engine — made with Lua and running on your homemade jkrgui.
-- Controllable from Android (through JkrGUI)
-- **[GitHub](https://github.com/theanimatorspal/Triyamik)**  
 
-### 🎥 Ksai Anim – 3D Animation Software (Vulkan/C)
-- Lightweight in-house animation tool.
-- Developed from scratch including custom UI system.
-- **[GitHub](https://github.com/theanimatorspal/ksai_anim)** | [📺 Watch on YouTube](https://www.youtube.com/watch?v=CUaXP6BmwVE)
+### 🧾 Triyamik (Lua)
+> Presentation scripting engine made using JkrGUI  
+🔗 [GitHub](https://github.com/theanimatorspal/Triyamik)
+
+---
+
+### 🎥 Ksai Anim (Vulkan, C)
+> Lightweight 3D animation software  
+- Fully hand-coded custom UI  
+🔗 [GitHub](https://github.com/theanimatorspal/ksai_anim) | 
+📺 [YouTube](https://www.youtube.com/watch?v=CUaXP6BmwVE)
 
 ---
 
 ## 🎨 Creative Projects
 
-### 🎬 My Animation Reel
-- **Fully handmade short films** in **Blender, Maya, ZBrush** – scripting, modeling, texturing, animation, and voiceovers.
-- **[Watch on YouTube](https://youtu.be/6fLBsLer_oA)**
+### 🎬 Animation Reel
+> Short films & animations made in **Blender**, **Maya**, and **ZBrush**  
+📺 [Watch on YouTube](https://youtu.be/6fLBsLer_oA)
 
-#### Notable Works
-- 📽️ **The Tell Tale Heart** (Sanskrit Short Film) → [View](https://www.instagram.com/reel/Cpjph5Vo15l/)
-- 📽️ **Kukkuta Series** – [Watch](https://youtu.be/Zypaw2MjV1w?list=PLBiLHNU_1jTfpwHE6VGjacnz8tS99toG2)
-- 📽️ **Pipilika Series** – [Watch](https://youtu.be/1BJII1Z6WzU?list=PLBiLHNU_1jTdH2S45GhKDhvyZanUSIECJ)
-
----
-
-### 📚 Book Design: Shri Durgasaptashati (Nepali Translation)
-- Typeset an entire scripture with modern LaTeX typesetting.
-- Spiritual meets technical!
+#### Featured:
+- **The Tell-Tale Heart** (Sanskrit Short) – [Instagram](https://www.instagram.com/reel/Cpjph5Vo15l/)
+- **Kukkuta Series** – [Watch](https://youtu.be/Zypaw2MjV1w?list=PLBiLHNU_1jTfpwHE6VGjacnz8tS99toG2)
+- **Pipilika Series** – [Watch](https://youtu.be/1BJII1Z6WzU?list=PLBiLHNU_1jTdH2S45GhKDhvyZanUSIECJ)
 
 ---
 
-## 🎤 Experience
+## 📚 Publications & Design
 
-### 👨‍🏫 LaTeX Instructor @ IEEE Pulchowk (2023)
-- Conducted a 3-day LaTeX workshop covering basics to advanced typesetting.
-
-### 🧘‍♂️ Sanskrit Language Instructor (2022–2023)
-- Taught Sanskrit to an international learner (USA-based) for one year.
-
-### 🏆 3rd Prize – Budhanilakantha Math League (2019)
+### 📖 Shri Durgasaptashati Book
+> Full Nepali translation with modern LaTeX typesetting  
+- Clean layout, printed & distributed in religious communities
 
 ---
 
-## 🌐 Languages
+## 🧑‍🏫 Teaching & Experience
 
-- **Nepali** – Native  
-- **English** – B2+  
-- **Hindi** – B2+  
-- **Sanskrit** – B2+  
+- 👨‍🏫 **LaTeX Instructor @ IEEE Pulchowk** (2023)  
+  _3-day workshop from basics to advanced usage_
 
----
+- 🧘 **Sanskrit Instructor (USA-based student)** (2022–2023)  
+  _1 year of remote teaching in spoken and textual Sanskrit_
 
-## ☎️ Contact
-
-📞 +977-9804378444  
-📞 +977-9842982702  
-📧 [darshankoirala51@gmail.com](mailto:darshankoirala51@gmail.com)  
-🌍 Kathmandu, Nepal  
+- 🏅 **3rd Prize – Budhanilakantha Math League (2019)**
 
 ---
 
-## 🙌 Let’s Connect!
+## 🌍 Language Proficiency
 
-If you’re into low latency computing, quantitative finance, graphics engines or open-source tooling — hit me up! I’m always down to collaborate, learn, and build cool stuff 🤝
+| Language   | Level   |
+|------------|---------|
+| Nepali     | Native  |
+| English    | B2+     |
+| Hindi      | B2+     |
+| Sanskrit   | B2+     |
+
+---
+
+## 📞 Contact Me
+
+📧 **Email:** [darshankoirala51@gmail.com](mailto:darshankoirala51@gmail.com)  
+📍 **Location:** Kathmandu, Nepal  
+📱 **Phone:** +977-9804378444, +977-9842982702  
+
+---
+
+## 🤝 Let’s Collaborate!
+
+If you're into:
+- 📉 Quantitative Finance
+- ⚡ Low-Latency Trading Systems
+- 🖼️ Vulkan Graphics & Game Engines
+- 🧠 Machine Learning & Simulation
+
+…let’s build something awesome together! 🛠️🚀
