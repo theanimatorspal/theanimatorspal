@@ -15,14 +15,16 @@
 ## 🛠️ Skills
 
 ### 💬 Languages
-- **C/C++**, **Lua**, **Java**, **Python**, **R**, **Julia**
+- **C/C++**, **Lua**, **Java**, **Python**, **R**, **JavaScript** (Experienced)
+- **Rust**, **Julia**, **Dart** (Has hands on)
 
 ### 🧰 Technologies & Tools
 - **Python:** TensorFlow, Pandas
-- **R Programming:** tidyverse, ggplot
-- **C++:** Vulkan, Modern C++
-- **Java:** Android Ecosystem, JNI
+- **R Programming:** tidyverse Ecosystem, PerformanceAnalytics
+- **C++:** Vulkan, OpenGl, Modern C++
+- **Java:** Android Ecosystem, JNI (Java Native Interface)
 - **Creative Software:** Maya, Blender, Audacity
+- **Technical Software:** Network Packet Tracer, Rstudio
 - **LaTeX:** Advanced typesetting
 
 
