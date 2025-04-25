@@ -29,16 +29,9 @@
 ## 🔥 Notable Projects
 
 ### 🧠 Quant Based Stock Signal Miner (R, Python)
-- Implemented a Signal Miner.
+- Implemented a Signal Miner that scraps NEPSE and yahoo data from internet and trains ML models on the basis of graph features.
+- Can give suggestions based on different financial indicators.
 - **[GitHub](https://github.com/theanimatorspal/QB-Stock-Market-Signal-Miner)**
-
-
----
-
-### 🧠 High Frequency Trading Simulator (C++, Lua)
-- Simulates high-frequency order book behavior.
-- Models basic market-making strategies.
-- **[GitHub](https://github.com/theanimatorspal/ksai_HFT)**
 
 
 ---
@@ -47,6 +40,14 @@
 - Built a neural network using LSTM for stock price predictions.
 - Focused on time-series modeling and financial trend analysis.
 - **[GitHub](https://github.com/AnamolZ/retainAI)**
+
+---
+
+### 🧠 High Frequency Trading Simulator (C++, Lua)
+- Simulates high-frequency order book behavior.
+- Models basic market-making strategies.
+- **[GitHub](https://github.com/theanimatorspal/ksai_HFT)**
+
 
 ---
 
