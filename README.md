@@ -35,62 +35,115 @@
 
 ### 🧠 QB Signal Miner (R, Python)
 > **Quant-based signal generator for NEPSE & Yahoo Finance**
-- Scrapes & models price graphs and financial indicators using ML
-- Trained using XGBoost, LightGBM, Random Forest  
+- Scrapes data using Selenium/API (NEPSE + Yahoo)
+- Uses indicators like Bollinger Bands, MACD, RSI
+- ML models: Random Forest, XGBoost, LightGBM
+- Shiny + Flexdashboard frontend for visualization  
 🔗 [GitHub Repo](https://github.com/theanimatorspal/QB-Stock-Market-Signal-Miner)
 
 ---
 
 ### 📈 retainAI (Python, LSTM)
 > **Stock Price Prediction using Time Series Modeling**
-- Trained LSTM model on NEPSE and US stock tickers  
+- LSTM model trained on NEPSE/Yahoo tickers
+- Scrapes data periodically & auto-trains daily  
 🔗 [GitHub Repo](https://github.com/AnamolZ/retainAI)
 
 ---
 
 ### ⚡ HFT Simulator (C++, Lua)
 > **High Frequency Trading Simulator with Order Book Model**
-- Models market-making logic, latency, and spread behavior  
+- Simulates a fictional market + trading logic
+- Built using JkrGUI for UI & graphics  
 🔗 [GitHub Repo](https://github.com/theanimatorspal/ksai_HFT)
 
 ---
 
 ### 🔬 SANN: Neural Network via Simulated Annealing (C++, Vulkan)
 > **Custom GUI + Simulated Annealing for training Neural Nets**  
-- Avoids backpropagation, uses annealing for weights  
-🔗 [GitHub](https://github.com/theanimatorspal/SANN) | 
+- Alternative to backpropagation using SA
+- Built with Vulkan & Lua via JkrGUI  
+🔗 [GitHub](https://github.com/theanimatorspal/SANN) |  
 📄 [Research Paper](https://www.researchgate.net/publication/380632886_Application_of_Simulated_Annealing_for_Training_Feed_Forward_Neural_Networks)
 
 ---
 
-### 🧪 JLox Interpreter (C++)
-> **Full Interpreter based on "Crafting Interpreters"**
-- Lexer → Parser → AST → Bytecode Interpreter  
-🔗 [GitHub Repo](https://github.com/theanimatorspal/JLoxInCpp)
-
----
-
 ### 🕹️ JkrGUI Graphics Engine (Vulkan + Lua)
-> **2D/3D Engine with Lua Scripting & Compute Shader UI**  
-- Vulkan + Lua + Android Cross-Platform  
-🔗 [GitHub](https://github.com/theanimatorspal/jkrgui) | 
+> **2D/3D Cross-Platform Engine with Lua Scripting**  
+- Compute Shaders for dynamic UI rendering
+- Works on Windows, MacOS, Android  
+🔗 [GitHub](https://github.com/theanimatorspal/jkrgui) |  
 📄 [Paper](https://www.researchgate.net/publication/380632983_Application_of_Compute_Shaders_and_Viability_of_Hybrid_Mode_for_UI_Rendering)
 
 ---
 
-### 🧾 Triyamik (Lua)
-> Presentation scripting engine made using JkrGUI  
-🔗 [GitHub](https://github.com/theanimatorspal/Triyamik)
+### 🧪 JLox Interpreter (C++)
+> **Complete C++ Interpreter for Lox (from Crafting Interpreters)**  
+- Handwritten Lexer + Parser → AST → Execution Engine  
+🔗 [GitHub Repo](https://github.com/theanimatorspal/JLoxInCpp)
+
+---
+
+### 🧾 Triyamik (C++, Vulkan, Lua)
+> **Presentation Engine (like LaTeX for slides)**  
+- Keyframe-based animation system  
+- Network support via ASIO  
+🔗 [GitHub](https://github.com/theanimatorspal/PresentTest-for-JkrGUI)
 
 ---
 
 ### 🎥 Ksai Anim (Vulkan, C)
-> Lightweight 3D animation software  
-- Fully hand-coded custom UI  
-🔗 [GitHub](https://github.com/theanimatorspal/ksai_anim) | 
-📺 [YouTube](https://www.youtube.com/watch?v=CUaXP6BmwVE)
+> **Minimalist 3D Animation Software**  
+- Built entirely from scratch with custom UI  
+🔗 [GitHub](https://github.com/theanimatorspal/ksai_anim) |  
+📺 [Demo Video](https://www.youtube.com/watch?v=CUaXP6BmwVE)
 
 ---
+
+### 🎮 Samprahar Returns (C++, Vulkan, Lua)
+> **3D Game Built Using JkrGUI**  
+- Air-gun third-person shooting + physics  
+- Skeletal animation, basic shadows  
+🔗 [GitHub](https://github.com/theanimatorspal/SampraharReturns)
+
+---
+
+### 🎲 Samprahar (C++, Raylib)
+> **Early 3D Arrow Shooting Game**  
+- Made using Raylib (simple third-person action)  
+🔗 [GitHub](https://github.com/bipul018/Simple-Version-Arrow-Game)
+
+---
+
+### 🎧 Sort Visualizer + Audio (OpenGL, C)
+> **Sort algorithm visualizer with sound synthesis**  
+- Uses Fourier transforms to generate audio  
+🔗 [GitHub](https://github.com/theanimatorspal/sortVisualize)
+
+---
+
+### 🏓 Ekaki: Table Tennis Game (C, Raylib)
+> **2D Pong-style Table Tennis Game**  
+🔗 [YouTube](https://youtu.be/7RaMnFfyYvk)
+
+---
+
+### 🤖 Maya Auto Rig (Python, Maya)
+> **Auto-rigging script for 3D characters in Autodesk Maya**  
+🔗 [GitHub](https://github.com/koiralasanskrit/MayaScripts)
+
+---
+
+### 📚 Sanskrit Dictionary (Flutter, Dart)
+> **Prototype app for Sanskrit-Nepali dictionary**  
+🔗 [GitHub](https://github.com/dkdarshan760/sanskrit-nepali--)
+
+---
+
+### 🧪 Engineering Prep App (Flutter, Dart)
+> **Prototype entrance exam prep app**  
+*(Repo unavailable)*
+
 
 ## 🎨 Creative Projects
 
