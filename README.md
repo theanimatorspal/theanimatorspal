@@ -30,20 +30,23 @@
 
 ### 🧠 Quant Based Stock Signal Miner (R, Python)
 - Implemented a Signal Miner.
-- *In development... Stay tuned!*
+- **[GitHub](https://github.com/theanimatorspal/QB-Stock-Market-Signal-Miner)**
+
 
 ---
 
 ### 🧠 High Frequency Trading Simulator (C++, Lua)
 - Simulates high-frequency order book behavior.
 - Models basic market-making strategies.
-- *In development... Stay tuned!*
+- **[GitHub](https://github.com/theanimatorspal/ksai_HFT)**
+
 
 ---
 
 ### 📈 retainAI: Stock Price Predictor (Python, LSTM)
 - Built a neural network using LSTM for stock price predictions.
 - Focused on time-series modeling and financial trend analysis.
+- **[GitHub](https://github.com/AnamolZ/retainAI)**
 
 ---
 
